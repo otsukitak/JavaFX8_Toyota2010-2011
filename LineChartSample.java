@@ -18,7 +18,7 @@ public class LineChartSample extends Application {
 		final LineChart<String, Number> lineChart = new LineChart<String, Number>(xAxis, yAxis);
 
 		lineChart.setCreateSymbols(false);
-		lineChart.setTitle("Stock Price, 2010 - 2012, Toyota");
+		lineChart.setTitle("Stock Price, 2010 - 2011, Toyota");
 
 		XYChart.Series<String, Number> series = new XYChart.Series<String, Number>();
 		series.setName("Close Price");
