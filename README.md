@@ -7,4 +7,6 @@ Reference
 https://docs.oracle.com/javafx/2/charts/chart-overview.htm
 
 Environment
-Java 8
+JDK 8
+
+Run As Java Application.
